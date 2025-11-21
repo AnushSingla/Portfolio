@@ -27,7 +27,7 @@ export const projectsData = [
     projectDesc: "Portfolio build for showcasing my skills.",
     projectSubDesc: "Next.js + API + Tailwind",
     projectTechStack: ["Node.js", "React.js", "Tailwind"],
-    githubLink: "https://github.com/Weather-App",
+    githubLink: "https://github.com/Portfolio",
     liveLink: "https://example.com",
     projectImage: "/portfolio.png",
     priority: 3,
