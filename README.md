@@ -2,7 +2,7 @@
 
 This is a full-stack personal portfolio website built with Next.js, Tailwind CSS, and MongoDB. It features an admin panel for managing projects, dynamic project pages, and a clean, modern design.
 
-![image](./portfolio.png)
+![image](./public/portfolio.png)
 
 ## Features
 
