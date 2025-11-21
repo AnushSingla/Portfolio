@@ -1,0 +1,36 @@
+export const projectsData = [
+  {
+    id: "1",
+    projectName: "ASHA Saathi",
+    projectDesc: "AI-powered health assistant for ASHA workers.",
+    projectSubDesc: "OCR, multilingual TTS, AI summaries.",
+    projectTechStack: ["MERN", "Docker", "CI/CD", "React.js"],
+    githubLink: "https://github.com/asha-saathi",
+    liveLink: "https://asha-delta.vercel.app/",
+    projectImage: "/asha-saathi.png",
+    priority: 1,
+  },
+  {
+    id: "2",
+    projectName: "Huddle-up",
+    projectDesc: "HuddleUp is a full-stack MERN (MongoDB, Express, React, Node.js) social media platform made for sports enthusiasts.",
+    projectSubDesc: "HuddleUp is a full-stack MERN (MongoDB, Express, React, Node.js) social media platform made for sports enthusiasts.",
+    projectTechStack: ["Node.js", "React.js", "MongoDB"],
+    githubLink: "https://github.com/HuddleUp",
+    liveLink: "https://huddle-up-seven.vercel.app/",
+    projectImage: "/huddle.png",
+    priority: 2,
+  },
+  {
+    id: "3",
+    projectName: "My Portfolio",
+    projectDesc: "Portfolio build for showcasing my skills.",
+    projectSubDesc: "Next.js + API + Tailwind",
+    projectTechStack: ["Node.js", "React.js", "Tailwind"],
+    githubLink: "https://github.com/Weather-App",
+    liveLink: "https://example.com",
+    projectImage: "/portfolio.png",
+    priority: 3,
+  },
+  
+];
