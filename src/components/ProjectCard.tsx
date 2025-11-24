@@ -95,11 +95,7 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
                 Live
               </a>
             )}
-            <Link href={`/project/${_id}`}>
-              <Button size="sm" className="px-3 py-1 text-xs">
-                View Details →
-              </Button>
-            </Link>
+            
           </div>
         </CardContent>
       </div>
