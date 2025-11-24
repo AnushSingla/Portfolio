@@ -8,7 +8,7 @@ import Intro from "../../../../models/intro.model";
 async function fetchIntroData() {
   return {
     name: "Anush Singla",
-    image: "/profilePic.png", // must be in /public folder
+    image: "/profile.png", // must be in /public folder
     techStack: ["Full Stack Web Developer", "DevOps Developer", "Building CI/CD Pipelines"],
     file: "/resume.pdf" // add your file in public folder too
   };

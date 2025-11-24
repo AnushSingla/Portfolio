@@ -30,7 +30,7 @@ export default function NavBar() {
         {/* Logo */}
         <Link href={"/"} className="flex items-center">
           <Image
-            src={"/profilePic.png"}
+            src={"/profile.png"}
             alt="Profile Picture"
             width={30}
             height={30}
