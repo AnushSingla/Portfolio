@@ -69,18 +69,7 @@ export default async function ViewAllProjects() {
                 </div>
               </div>
 
-              <div className="flex items-center justify-end pt-4 border-t border-zinc-800">
-                {/* <Badge className="bg-green-600 text-white text-xs">✅ All Systems Operational</Badge> */}
-
-                <Link href={`/project/${proj._id}`}>
-                  <Button
-                    variant="default"
-                    className="   text-xs px-4 py-1"
-                  >
-                    View Details →
-                  </Button>
-                </Link>
-              </div>
+              
             </CardContent>
           </Card>
         ))}
